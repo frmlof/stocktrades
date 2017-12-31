@@ -1,0 +1,9 @@
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/utils/CredentialUtils.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/writer/StockTradeGenerator.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessorFactory.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/writer/StockTradesWriter.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockStats.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradeRecordProcessor.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/model/StockTrade.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/processor/StockTradesProcessor.java
+/Users/aliyevn/IdeaProjects/stocktrades/src/main/java/com/amazonaws/services/kinesis/samples/stocktrades/utils/ConfigurationUtils.java
